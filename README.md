@@ -30,9 +30,9 @@ Feel free to contribute by suggesting improvements or reporting issues. Create a
 
 ## Contact
 
-- usmanshahid8
+- Usman Shahid
 - Email: usmanshahid0708@outlook.com
 - Phone: +923077441191
-- LinkedIn: linkedin.com/usmanshahid8
+- LinkedIn: linkedin.com/in/usmanshahid8
 
 Thank you for visiting my portfolio website! I hope you find it informative and engaging.
